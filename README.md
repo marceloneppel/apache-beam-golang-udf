@@ -2,7 +2,7 @@
 
 Run UDFs (User Defined Functions) on Apache Beam Golang SDK.
 
-Go Modules activation:
+Go Modules activation (if necessary):
 ```sh
 export GO111MODULE=on
 ```
